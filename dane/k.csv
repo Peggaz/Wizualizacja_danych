@@ -1,0 +1,24 @@
+id,nazwa,sr_odleglosc,srednica,czas_obiegu,Odkrywca,rok_odkrycia,planeta
+1,Ksiezyc,384.4,3475,27.3,NULL,NULL,1
+2,Fobos,9.4,22.2,0.32,A. Hall,1877,2
+3,Deimos,23.5,12.4,1.26,A. Hall,1877,2
+4,Io,422,3643.2,1.77,Galileusz/ S.Marius,1610,3
+5,Europa,671,3121.6,3.55,Galileusz / S. Marius,1610,3
+6,Ganimedes,1070,5262.4,7.16,Galileusz / S. Marius,1610,3
+7,Mimas,185.6,397.2,0.94,F.W. Herschel,1789,4
+8,Enceladus,238.1,498.8,1.37,F.W. Herschel,1789,4
+9,Kallisto,1883,4820.6,16.7,Galileusz / S. Marius,1610,3
+10,Amaltea,181,166.9,0.5,E.E. Bernard,1892,3
+11,Tetyda,294.7,1059.8,1.89,G.D. Cassini,1684,4
+12,Dione,377.4,1118,2.74,G.D. Cassini,1684,4
+13,Rea,527.1,1528,4.52,G.D. Cassini,1672,4
+14,Ariel,191,1157.8,2.52,W. Lassell,1851,5
+15,Umbriel,266,1169.4,4.14,W. Lassell,1851,5
+16,Tytania,436,1577.8,8.71,F. W. Herschel,1787,5
+17,Oberon,583,1522.8,13.5,F.W. Herschel,1787,5
+18,Miranda,129.9,471.6,1.41,G. P. Kuiper,1948,5
+19,Tryton,354.8,2706.8,5.88,W. Lassell,1846,6
+20,Galatea,62,176,0.43,S. Synott (Voyager 2),1989,6
+21,Najada,48.2,66,0.3,R. Terrile (Voyager 2),1989,6
+22,Talassa,50,82,0.31,R. Terrile (Voyager 2),1989,6
+23,Despoina,62,150,0.33,S. Synott (Voyager 2),1989,6
